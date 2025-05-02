@@ -1,4 +1,4 @@
-To run the project you just need to run it colab, the excpected time to run it is: 30min
+To run the project you just need to run it colab, the excpected time to run it is: 30min each
 
 Task1 - Pred with vbox GPU h (not yet caculated)
 Data conversion + sanity plots 0.2
