@@ -1,7 +1,0 @@
-task 1:
- predict disease with box
-
-task 2:
-predict disease with wuadrant and enumeration(position)
-
-compare both
