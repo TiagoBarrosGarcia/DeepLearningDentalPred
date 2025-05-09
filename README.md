@@ -13,3 +13,5 @@ YOLOv5-s full schedule 2.0
 Hyper-param sweep (imgsz 512 vs 640) 0.8
 Inference + CAM 0.3
 Total ≈ 3.3 h
+
+the sum of the loss of both enumeration and quadrant
