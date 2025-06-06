@@ -7,7 +7,7 @@ import numpy as np
 model = YOLO("Model/YoloPrediction/my_model.pt")
 
 # Path to input image
-img_path = "Data/train_10.png"
+img_path = "Data/train_7.png"
 img = cv2.imread(img_path)
 
 # Run prediction
